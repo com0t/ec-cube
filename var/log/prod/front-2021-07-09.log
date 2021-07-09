@@ -1,0 +1,5 @@
+[2021-07-09 08:26:51] front.INFO [N/A] [6fc0d14] [N/A] [Eccube\Log\Logger:log:66] - INIT [] [GET, /ec-cube/, 127.0.0.1, NULL, Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+[2021-07-09 08:26:51] front.INFO [N/A] [6fc0d14] [anon.] [Eccube\Log\Logger:log:66] - PROCESS START ["homepage"] [GET, /ec-cube/, 127.0.0.1, NULL, Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+[2021-07-09 08:26:51] front.INFO [N/A] [6fc0d14] [anon.] [Eccube\Log\Logger:log:66] - LOGIC START ["homepage"] [GET, /ec-cube/, 127.0.0.1, NULL, Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+[2021-07-09 08:26:52] front.INFO [d4nqq6bp8fh25tf9nsta50um9t] [6fc0d14] [anon.] [Eccube\Log\Logger:log:66] - LOGIC END ["homepage"] [GET, /ec-cube/, 127.0.0.1, NULL, Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+[2021-07-09 08:26:52] app.INFO [N/A] [6fc0d14] [anon.] [Eccube\Log\Logger:log:68] - PROCESS END ["homepage"] [GET, /ec-cube/, 127.0.0.1, NULL, Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
